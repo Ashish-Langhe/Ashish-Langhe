@@ -4,7 +4,7 @@
 
 - 🌱 Skilled in native iOS app development (Swift & SwiftUI) & cross-platform app development using Flutter (Dart).
 
-- 🎿 Understanding of SOLID, KISS and DRY principles.
+- 🎿 Understanding of SOLID principles.
 
 - 🎲 Following clean architecture i.e, VIPER, while building mobile applications.
 
