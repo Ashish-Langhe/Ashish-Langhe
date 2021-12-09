@@ -18,7 +18,9 @@
 
 - 📳 Responsible for end-to-end mobile application development from scratch to deployment.
 
-- 📫 Reach out me: 📩 Email ID : langheashish389@gmail.com || 💎Skype ID : ashish.g_19
+- 📫 Reach out me: 
+            📩 Email ID : langheashish389@gmail.com 
+            💎Skype ID  : ashish.g_19
 
 - 🎇 StackOverflow @https://stackoverflow.com/users/11258681/ashish-l
 
