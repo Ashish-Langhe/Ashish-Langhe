@@ -26,6 +26,17 @@
 
 - 📘 LinkedIn: https://www.linkedin.com/in/ashishlanghe/
 
+- 📚 I follow below references to keep myself updated with latest updates with iOS/Swift/SwiftUI: 
+
+            1. Robert Petras 
+            2. Mohammad Azam
+            3. Nick Walter
+            4. Dr. Angela Yu
+            5. Dmitri Nesteruk
+            6. RayWenderlich
+            7. Hacking With Swift
+            
+
 <!---
 Ashish-Langhe/Ashish-Langhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
