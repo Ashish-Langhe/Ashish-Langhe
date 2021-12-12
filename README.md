@@ -18,6 +18,14 @@
 
 - 📳 Responsible for end-to-end mobile application development from scratch to deployment.
 
+- 🧿 Tools 
+           1. XCode
+           2. Jenkins
+           3. Confluence
+           4. Nexus
+           5. CI/CD
+           6. Fastlane
+
 - 📫 Reach out me: 
             📩 Email ID : langheashish389@gmail.com 
             💎Skype ID  : ashish.g_19
