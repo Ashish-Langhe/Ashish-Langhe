@@ -20,10 +20,15 @@
 
 - 🧿 Tools 
            1. XCode
+
            2. Jenkins
+
            3. Confluence
+
            4. Nexus
+
            5. CI/CD
+
            6. Fastlane
 
 - 📫 Reach out me: 
