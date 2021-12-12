@@ -6,7 +6,7 @@
 
 - 🎿 Understanding of SOLID principles.
 
-- 🎲 Following clean architecture i.e, VIPER, while building mobile applications.
+- 🎲 Following clean architecture i.e, VIPER, for building mobile applications.
 
 - ⚽ Good exposure on CI/CD, Jenkins, TDD, SVN, AppCenter, Tealium, Accessibility etc. 
 
