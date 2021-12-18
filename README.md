@@ -27,9 +27,6 @@
            5. CI/CD
            6. Fastlane
 
-- 📫 Reach out me: 
-            📩 Email ID : langheashish389@gmail.com 
-            💎Skype ID  : ashish.g_19
 
 - 🎇 StackOverflow @https://stackoverflow.com/users/11258681/ashish-l
 
@@ -45,6 +42,10 @@
             6. RayWenderlich
             7. Hacking With Swift
             
+ - 📫 Reach out me: 
+            📩 Email ID : langheashish389@gmail.com 
+            
+            💎Skype ID  : ashish.g_19
 <!---
 Ashish-Langhe/Ashish-Langhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
