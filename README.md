@@ -3,17 +3,11 @@
 - 🎓 Experienced Mobile Application Developer (Experience - 6+ years) with a demonstrated history of working in the information technology and financial service industry.
 
 - 🌱 Skilled in native iOS app development (Swift & SwiftUI) & cross-platform app development using Flutter (Dart).
-
 - 🎲 Following clean architecture i.e, VIPER, for building mobile applications.
-
 - ⚽ Good exposure on CI/CD, Jenkins, TDD, SVN, AppCenter, Tealium, Accessibility etc. 
-
 - 📀 Experience in enterprise app development & deployment via UEM solution EMM (Blackberry) – MDM
-
 - 🧿 Exposure on integrating, app deployment & activating Microsoft Azure (MAM) for iOS BYOD applications.
-
 - 🎯 Participate in architecture and design discussions, code reviews, and project-related team activities.
-
 - 📳 Responsible for end-to-end mobile application development from scratch to deployment.
 
 - 🧿 Tools 
