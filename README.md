@@ -27,11 +27,12 @@
 - 🧿 Tools 
 
            1. XCode
-           2. Jenkins
-           3. Confluence
-           4. Nexus
-           5. CI/CD
-           6. Fastlane
+           2. Android Studio
+           3. Jenkins
+           4. Confluence
+           5. Nexus
+           6. CI/CD
+           7. Fastlane
 
 
 - 🎇 StackOverflow @https://stackoverflow.com/users/11258681/ashish-l
