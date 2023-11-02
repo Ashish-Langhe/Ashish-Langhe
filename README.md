@@ -1,8 +1,11 @@
 
 
-```iOS
-👋 Hi, I’m Ashish-Langhe 👨🏻‍💻 
-```
+   #### 📊 Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+
+### Hi there, I'm Ashish Langhe 👋
+[<img align="right" src="profile.jpg" width="200">](https://github.com/yourusername)
+
 
 🎓 7+ years experienced Mobile App Developer.
 
@@ -24,22 +27,23 @@
 
 📳 Handles end-to-end mobile app development with iOS & Flutter expertise.
 
-- 🧿 Tools 
-
-           1. XCode
-           2. Android Studio
-           3. Jenkins
-           4. Confluence
-           5. Nexus
-           6. CI/CD
-           7. Fastlane
+|  🔧 Skill/Technology                 |
+|---------------------------------|
+| ![iOS](https://img.shields.io/badge/iOS-Proficient-yellow) ![Swift](https://img.shields.io/badge/Swift-Advanced-brightgreen) ![SwiftUI](https://img.shields.io/badge/SwiftUI-Intermediate-green) ![Combine Framework](https://img.shields.io/badge/Combine-Intermediate-green) ![Flutter](https://img.shields.io/badge/Flutter/Dart-Proficient-yellow) ![VIPER](https://img.shields.io/badge/Architecture-VIPER-blue) ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Experienced-lightgrey) ![TDD](https://img.shields.io/badge/TDD-Practitioner-brightgreen) ![Git](https://img.shields.io/badge/Git-Proficient-orange) ![AppCenter](https://img.shields.io/badge/AppCenter%2C%20Tealium%2C%20Accessibility-Proficient-lightgrey) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Singleton-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Delegate-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Observer-blue) |
 
 
-- 🎇 StackOverflow @https://stackoverflow.com/users/11258681/ashish-l
+#### 🛠️ Tools
 
-- 📘 LinkedIn: https://www.linkedin.com/in/ashishlanghe/
+- **XCode** 📱: My go-to tool for iOS app development.
+- **Android Studio** 🤖: Ideal for creating outstanding Flutter & Android applications.
+- **Jenkins** 🚀: I rely on Jenkins for robust CI/CD pipelines.
+- **Confluence** 📝: Collaborative documentation for efficient project management.
+- **Nexus** 📦: A key player in managing project dependencies.
+- **Fastlane** ⚙️: The automation powerhouse behind app deployment.
 
-- 📚 I follow below references to keep myself updated with latest updates with iOS/Swift/SwiftUI: 
+ #### 📚 Learning Resources
+
+I stay up-to-date with the latest in iOS/Swift/SwiftUI through the following references:
 
 |  |  |
 | --- | --- |
@@ -50,13 +54,24 @@
 | 9. CodeWithChris | 10. Youtube 😇 |
 |11. Udemy 🚀|
         
- 
- - 📫 Reach out me: 
-           
-            📩 Email ID : langheashish389@gmail.com 
-            
-            💎 Skype ID  : ashish.g_19
+#### 🌟 Connect with Me
+
+- 🚀 [StackOverflow](https://stackoverflow.com/users/11258681/ashish-l): Dive into my coding adventures on StackOverflow.
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashishlanghe/): Join me on my professional journey at LinkedIn.
+  
+#### ✉️ Contact Me
+
+- 📩 Email ID: langheashish389@gmail.com
+- 💎 Skype ID: ashish.g_19
+
+
 <!---
 Ashish-Langhe/Ashish-Langhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+#### 💬 Inspirational Quote
+> ""Mobile development is where imagination meets innovation, and every line of code is a brushstroke on the canvas of technology." 📱✨🎨"
+
