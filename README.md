@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @Ashish-Langhe
 
-- 🎓 Experienced Mobile Application Developer (Experience - 7+ years) with a demonstrated history of working in the information technology and financial service industry.
 
-- 🌱 Skilled in native iOS app development (Swift & SwiftUI) & cross-platform app development using Flutter (Dart).
-- 🎲 Following clean architecture i.e, VIPER, for building mobile applications.
-- ⚽ Good exposure on CI/CD, Jenkins, TDD, SVN, AppCenter, Tealium, Accessibility etc. 
-- 📀 Experience in enterprise app development & deployment via UEM solution EMM (Blackberry) – MDM
-- 🧿 Exposure on integrating, app deployment & activating Microsoft Azure (MAM) for iOS BYOD applications.
-- 🎯 Participate in architecture and design discussions, code reviews, and project-related team activities.
-- 📳 Responsible for end-to-end mobile application development from scratch to deployment.
+```iOS
+👋 Hi, I’m Ashish-Langhe 👨🏻‍💻 
+```
+
+🎓 7+ years experienced Mobile App Developer.
+
+🌱 Proficient in Swift, SwiftUI for iOS app development.
+
+📱 Proficient in Flutter/Dart for cross-platform apps, ensuring broad accessibility and consistent user experiences.
+
+👨🏻‍💻 Skilled in Combine framework for super-responsive apps.
+
+🎲 Follows clean architecture (VIPER/MVVM) for robust app design.
+
+⚽ Strong background in CI/CD, Jenkins, TDD, and accessibility.
+
+📀 Expert in enterprise app development and Blackberry MDM.
+
+🧿 Skilled in Microsoft Azure MAM for iOS BYOD apps.
+
+🎯 Active contributor in architecture, code reviews, and projects.
+
+📳 Handles end-to-end mobile app development with iOS & Flutter expertise.
 
 - 🧿 Tools 
 
@@ -31,7 +45,9 @@
 | 1.  Robert Petras | 2. Mohammad Azam|
 | 3. Nick Walter| 4. Dr. Angela Yu |
 | 5. Dmitri Nesteruk | 6. RayWenderlich |
-| 7. Hacking With Swift ||
+| 7. Hacking With Swift | 8. Vincent Pradeilles |
+| 9. CodeWithChris | 10. Youtube 😇 |
+|11. Udemy 🚀|
         
  
  - 📫 Reach out me: 
