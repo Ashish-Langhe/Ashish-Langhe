@@ -1,8 +1,3 @@
-
-
-   #### 📊 Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-
 ### Hi there, I'm Ashish Langhe 👋
 [<img align="right" src="profile.jpg" width="200">](https://github.com/yourusername)
 
@@ -70,8 +65,10 @@ Ashish-Langhe/Ashish-Langhe is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 #### 💬 Inspirational Quote
 > ""Mobile development is where imagination meets innovation, and every line of code is a brushstroke on the canvas of technology." 📱✨🎨"
+
+
+#### 📊 Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
