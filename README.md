@@ -22,9 +22,9 @@
 
 📳 Handles end-to-end mobile app development with iOS & Flutter expertise.
 
-|  🔧 Skill/Technology                 |
+|  🔧 Skills/Technology                 |
 |---------------------------------|
-| ![iOS](https://img.shields.io/badge/iOS-Proficient-yellow) ![Swift](https://img.shields.io/badge/Swift-Advanced-brightgreen) ![SwiftUI](https://img.shields.io/badge/SwiftUI-Intermediate-green) ![Combine Framework](https://img.shields.io/badge/Combine-Intermediate-green) ![Flutter](https://img.shields.io/badge/Flutter/Dart-Proficient-yellow) ![VIPER](https://img.shields.io/badge/Architecture-VIPER-blue) ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Experienced-lightgrey) ![TDD](https://img.shields.io/badge/TDD-Practitioner-brightgreen) ![Git](https://img.shields.io/badge/Git-Proficient-orange) ![AppCenter](https://img.shields.io/badge/AppCenter%2C%20Tealium%2C%20Accessibility-Proficient-lightgrey) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Singleton-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Delegate-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Observer-blue) |
+| ![iOS](https://img.shields.io/badge/iOS-Proficient-yellow) ![Swift](https://img.shields.io/badge/Swift-Advanced-brightgreen) ![SwiftUI](https://img.shields.io/badge/SwiftUI-Intermediate-green) ![Combine Framework](https://img.shields.io/badge/Combine-Intermediate-green) ![Flutter](https://img.shields.io/badge/Flutter/Dart-Proficient-yellow) ![VIPER](https://img.shields.io/badge/Architecture-VIPER-blue) ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Experienced-lightgrey) ![TDD](https://img.shields.io/badge/TDD-Practitioner-brightgreen) ![Git](https://img.shields.io/badge/Git-Proficient-orange) ![AppCenter](https://img.shields.io/badge/AppCenter%2C%20Tealium%2C%20Accessibility-Proficient-lightgrey) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Singleton-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Delegate-orange) ![Design Pattern](https://img.shields.io/badge/Design_Pattern-Observer-blue)|
 
 
 #### 🛠️ Tools
