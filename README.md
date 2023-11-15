@@ -35,7 +35,9 @@
 - **Confluence** 📝: Collaborative documentation for efficient project management.
 - **Nexus** 📦: A key player in managing project dependencies.
 - **Fastlane** ⚙️: The automation powerhouse behind app deployment.
-
+ 
+ #### ✍🏻 My Tech Blogs/Articles
+ - [**SwiftData with SwiftUI and MVVM**](https://medium.com/@langheashish389/swiftdata-with-swiftui-and-mvvm-a-comprehensive-guide-6b123bce2952) 
  #### 📚 Learning Resources
 
 I stay up-to-date with the latest in iOS/Swift/SwiftUI through the following references:
