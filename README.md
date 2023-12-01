@@ -37,9 +37,9 @@
 - **Fastlane** ⚙️: The automation powerhouse behind app deployment.
  
  #### ✍🏻 My Tech Blogs/Articles
- - [**SwiftData with SwiftUI and MVVM**](https://medium.com/@langheashish389/swiftdata-with-swiftui-and-mvvm-a-comprehensive-guide-6b123bce2952)
- - [**Building a Speedometer App with SwiftUI**](https://medium.com/@langheashish389/building-a-speedometer-app-with-swiftui-a-step-by-step-guide-70fd702a02b7)
- - [**Image Detection using SwiftUI and CoreML**](https://medium.com/@langheashish389/image-detection-using-swiftui-and-coreml-bd2c5462ddfe)
+ - [**SwiftData with SwiftUI and MVVM**](https://medium.com/@langheashish389/swiftdata-with-swiftui-and-mvvm-a-comprehensive-guide-6b123bce2952)  
+ - [**Building a Speedometer App with SwiftUI**](https://medium.com/@langheashish389/building-a-speedometer-app-with-swiftui-a-step-by-step-guide-70fd702a02b7)  
+ - [**Image Detection using SwiftUI and CoreML**](https://medium.com/@langheashish389/image-detection-using-swiftui-and-coreml-bd2c5462ddfe)  
    
  #### 📚 Learning Resources
 
