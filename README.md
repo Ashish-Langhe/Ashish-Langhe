@@ -55,7 +55,7 @@ I stay up-to-date with the latest in iOS/Swift/SwiftUI through the following ref
 |11. Udemy 🚀|
         
 #### 🌟 Connect with Me
-<a href="https://stackexchange.com/users/7780066"><img src="https://stackexchange.com/users/flair/7780066.png?theme=clean" width="308" height="90" alt="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/11258681/ashish-langhe"><img src="https://stackexchange.com/users/flair/7780066.png?theme=clean" width="308" height="90" alt="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 - 🚀 [StackOverflow](https://stackoverflow.com/users/11258681/ashish-l): Dive into my coding adventures on StackOverflow.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashishlanghe/): Join me on my professional journey at LinkedIn.
 - 
