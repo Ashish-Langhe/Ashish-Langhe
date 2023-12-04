@@ -47,12 +47,12 @@ I stay up-to-date with the latest in iOS/Swift/SwiftUI through the following ref
 
 |  |  |
 | --- | --- |
-| 1.  Robert Petras | 2. Mohammad Azam|
+| 1.  [Robert Petras](https://www.youtube.com/@RobertPetras) | 2. Mohammad Azam|
 | 3. Nick Walter| 4. Dr. Angela Yu |
 | 5. Dmitri Nesteruk | 6. RayWenderlich |
-| 7. Hacking With Swift | 8. Vincent Pradeilles |
-| 9. CodeWithChris | 10. Youtube 😇 |
-|11. Udemy 🚀|
+| 7. Hacking With Swift | 8. [Vincent Pradeilles](https://www.youtube.com/@v_pradeilles) |
+| 9. [CodeWithChris](https://www.youtube.com/@CodeWithChris) | 10. Youtube 😇 |
+|11. Udemy 🚀| 12. [Yogesh Patel](https://www.youtube.com/@YogeshPateliOS) |
         
 #### 🌟 Connect with Me
 <a href="https://stackoverflow.com/users/11258681/ashish-langhe"><img src="https://stackexchange.com/users/flair/7780066.png?theme=clean" width="308" height="90" alt="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish Langhe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
