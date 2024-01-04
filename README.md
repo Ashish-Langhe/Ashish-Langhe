@@ -2,7 +2,7 @@
 [<img align="right" src="profile.jpg" width="200">](https://github.com/yourusername)
 
 
-🎓 7+ years experienced Mobile App Developer.
+🎓 8+ years experienced Mobile App Developer.
 
 🌱 Proficient in Swift, SwiftUI for iOS app development.
 
