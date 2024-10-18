@@ -18,7 +18,7 @@
 
 🧿 Skilled in Microsoft Azure MAM for iOS BYOD apps.
 
-🎯 Active contributor in architecture, code reviews, & projects.
+🎯 Actively contributing in the architecture, code reviews, & projects.
 
 📳 Handles end-to-end mobile app development with iOS & Flutter expertise.
 
