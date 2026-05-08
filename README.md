@@ -38,22 +38,6 @@ let ashish = SeniorEngineer(
 
 ---
 
-## 🏆 Career Highlights
-
-| 🏅 Achievement | 📍 Context |
-|---|---|
-| **#1 Secure Code Warrior** | HSBC-Wipro tournament — ranked first across 200+ engineers |
-| **Disney WDW Park App** | Senior iOS, team of 35 — AR, ML & real-time sync at Walt Disney World scale |
-| **Disney DLR Park App** | Senior iOS — Disneyland Resort, feature parity across US parks |
-| **HSBC IN Banking App** | UPI payments for millions of customers, team of 20, banking-grade security |
-| **Wizink Bank App** | SwiftUI greenfield build, team of 40 — fintech at production scale |
-| **Disney Chassis App** | Flutter + Dart, cross-platform, team of 20 |
-| **ICICI Lombard iSME App** | iOS + Flutter, led team of 5–6, direct client ownership |
-| **Ferrovial Toll App** | Full iOS ownership, Swift, infrastructure-mobility domain |
-| **Globant Recognition** | "Pat on Back" award for exceptional contributions — Oct 2023 |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
